@@ -1,0 +1,9 @@
+@import url(style/cabeçalho.css);
+@import url(style/corpo.css);
+@import url(style/rodape.css);
+@import url(style/section.css);
+@import url(style/section1.css);
+
+:root {
+    --cor-de-fundo: linear-gradient(to bottom, #1024A4, #ffffff);   
+}

@@ -1,0 +1,7 @@
+.introdução{
+    height: 350px;
+    display:flex;
+    justify-content: space-around;
+    margin-left: 35px;
+    margin-right: 35px;
+}
